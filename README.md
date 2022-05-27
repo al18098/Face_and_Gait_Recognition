@@ -24,6 +24,11 @@ GEIから主成分分析により、歩行特徴ベクトルを算出。
   ![System](https://user-images.githubusercontent.com/66660848/170673537-20e0dc2d-a96d-4dec-a078-4e33bcd05554.jpg)　　
   
 **利用方法**  
+環境  
+　・Python 3.8  
+　・CUDA 11.2.0  
+　・tensorflow 2.5.0  
+
 用意するもの：  
 　・顔の映っている画像  <- face.jpg
 　・背景がグリーンバックの歩行者を横から撮影した映像 <- gait.mp4
