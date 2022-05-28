@@ -105,6 +105,6 @@ GEIから主成分分析により、歩行特徴ベクトルを算出。
  **引用**  
 VGGFace:Omkar M. Parkhi, Andrea Vedaldi, and Andrew Zisserman. Deep face recognition. In British Machine Vision Conference, 2015.  
 CASIA B: S. Zheng, J. Zhang, K. Huang, R. He, and T. Tan. Robust view transformation model for gait recognition. In ICIP, pp. 2073–2076, 2011.  
-
+ResNet-50(Residual Network)： Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residuallearning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 770–778, 2016  
 
   
