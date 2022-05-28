@@ -102,9 +102,9 @@ GEIから主成分分析により、歩行特徴ベクトルを算出。
  そのため、今後はより大規模なデータを利用した検証が必要であると考える。  
    
    
- **引用**
-VGGFace:Omkar M. Parkhi, Andrea Vedaldi, and Andrew Zisserman. Deep face recognition. In British Machine Vision Conference, 2015.
-CASIA B: S. Zheng, J. Zhang, K. Huang, R. He, and T. Tan. Robust view transformation model for gait recognition. In ICIP, pp. 2073–2076, 2011.
+ **引用**  
+VGGFace:Omkar M. Parkhi, Andrea Vedaldi, and Andrew Zisserman. Deep face recognition. In British Machine Vision Conference, 2015.  
+CASIA B: S. Zheng, J. Zhang, K. Huang, R. He, and T. Tan. Robust view transformation model for gait recognition. In ICIP, pp. 2073–2076, 2011.  
 
 
   
