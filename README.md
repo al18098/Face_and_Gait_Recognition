@@ -100,8 +100,11 @@ GEIから主成分分析により、歩行特徴ベクトルを算出。
  このことから、顔認証と歩容認証を組み合わせることにより、マスク着用時の認証精度が向上するという仮説は正しいと考えられる。
  しかし、本実験は少数の実験参加者に対して、制御された環境下で撮影されたデータを実験に利用したため、全体的な精度がかなり高くなり、精度の変化が分かり難くなってしまった。  
  そのため、今後はより大規模なデータを利用した検証が必要であると考える。  
- 
-
+   
+   
+ **引用**
+VGGFace:Omkar M. Parkhi, Andrea Vedaldi, and Andrew Zisserman. Deep face recognition. In British Machine Vision Conference, 2015.
+CASIA B: S. Zheng, J. Zhang, K. Huang, R. He, and T. Tan. Robust view transformation model for gait recognition. In ICIP, pp. 2073–2076, 2011.
 
 
   
